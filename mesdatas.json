@@ -1,0 +1,14 @@
+{
+"cols":[
+		{"label":"promos","type":"string"},
+		{"label":"nbetud","type":"number"}
+		],
+
+"rows":[
+		{"c":[{"v":"Lusigny"},{"v":28}]},
+		{"c":[{"v":"Saint Andre"},{"v":56}]},
+		{"c":[{"v":"Saint Parres"},{"v":14}]},
+		{"c":[{"v":"Troyes"},{"v":56}]},
+		{"c":[{"v":"Verrieres"},{"v":14}]}
+		]
+}
